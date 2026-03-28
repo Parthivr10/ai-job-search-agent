@@ -18,20 +18,11 @@ An intelligent job search agent that fetches real-time job listings, extracts yo
 
 ---
 
-## 🖥️ Demo
+## 🖥️ UI
 
-```
-Query   : Gen AI Engineer in Bangalore
-Resume  : Parthiv_R_GenAI_resume.pdf
+![ui](screenshots/jobagent1.png)
+![ui](screenshots/jobagent2.png)
 
-[1]  ████████░░  82%  MATCH
-     💼  AI Engineer – RAG & Voice Pipelines
-     🏢  CareerXperts Consulting
-     📍  Bangalore, Karnataka
-     💰  ₹8,00,000 - ₹15,00,000
-     🤖  Strong RAG and LangChain experience aligns well with this GenAI role.
-     ✅  Matched: python, rag, langchain, fastapi
-```
 
 ---
 
