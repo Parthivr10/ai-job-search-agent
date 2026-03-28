@@ -1,0 +1,142 @@
+PARTHIV R
+
+India   
+parthivri0@gmail.com 
+7994566690 
+
+SUMMARY
+
+Generative AI Engineer with 2 years of hands-on experience building LLM-powered products, including Agentic Al and multimodal
+RAG systems. Strong experience with open-source LLMs and vector databases, with a product mindset focused on accuracy, scalability,
+and real-world usability.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science and Engineering
+APJ Abdul Kalam Technological University - 06/2023 + 7.51/10
+
+SKILLS
+
+Generative AI & LLM Engineering - Gen Al, Agentic Al, Large Language Models (LLMs), LLM Fine-Tuning(LoRA, PEFT, Unsloth), Retrieval-
+Augmented Generation (RAG), LLM Orchestration, NLP, Machine Learning, Hugging Face Transformers, PyTorch, Multimodal AI, Prompt
+Engineering, Mistral-7B, Phi-3, LLaMA ,Grog
+
+Programming & Backend - Python, Pandas, NumPy, PySpark, Apache Airflow, SQL, MySQL, MongoDB, PostgreSQL, Airtable
+
+Vector Databases & Retrieval - ChromaDB, FAISS, Chunking Strategies, Embedding Pipelines, Semantic Search, Top-K Retrieval, Context
+window optimization
+
+Tools & Frameworks - LangChain, n8n, LangGraph, FastAPI, Tesseract OCR, OpenCV, Twilio, Gradio, Streamlit, Angular, Docker, Linux, Git,
+React.
+
+EXPERIENCE
+
+Generative AI Engineer
+
+Tech Mahindra March 2024 - Present, Bangalore, India
+
+- Built and deployed production-grade GenAI systems, including RAG pipelines for document understanding and grounded question
+answering.
+
+- Designed hybrid OCR + fine-tuned LLM + RAG architectures to convert technical diagram images into structured service instructions,
+automating ~60% of repetitive analysis tasks.
+
+- Fine-tuned LLMs using Hugging Face Transformers and PyTorch (LoRA) for domain-specific tasks, improving response relevance and
+consistency.
+
+» Worked with Data and AI Center of Excellence (Data & AI COE) team, focusing on cutting edge Al innovations, model-finetuning, and Al-
+driven automation.
+
+- Presented 10+ GenAI solution demos to internal teams and external clients, explaining system design, technical trade-offs, and business
+impact.
+
+Freelance Designer
+Xbean international January 2022 - July 2023, Bangalore, India
+- UL UX, Logo Design, branding, visual design.
+
+PROJECT
+
+Agentic Al-Powered Customer Support Bot on WhatsApp using n8n, Twilio & Grog
+
+January 2026 - January 2026
+
+- Designed and implemented an Agentic GenAI system integrating LLM reasoning with automation workflows for real-world customer
+support use cases.
+
+- Implemented LLM tool calling to autonomously trigger actions such as order tracking and automated support ticket creation.
+
+- Orchestrated multi-step, stateful workflows using n8n to manage decision logic and task execution across tools and APIs.
+
++ Integrated Twilio WhatsApp APIs and webhooks to enable real-time, event-driven conversations on WhatsApp and trigger automated
+system workflows.
+
+* Tech Stack: n8n, Twilio, Grog, APIs, Webhooks, Docker, Airtable.
+
+Hybrid(RAG+Fine-tuning) Image-to-Instruction GenAI System
+
+Tech Mahindra + June 2025 - Present
+
++ Built a hybrid GenAI system that converts engineering diagrams into structured service instructions, improving bulletin generation
+efficiency by 18-20%.
+
+- Combined OCR (Tesseract, OpenCV), fine-tuned LLMs, and Retrieval-Augmented Generation (RAG) to ensure context-grounded
+outputs, achieving 90%+ accuracy in output generation.
+
+- Implemented FAISS-based semantic retrieval and GPU-optimized inference.
+
++ Delivered through an interactive, editable UI enabling human-in-the-loop validation.
+
+- Tech: Python, Mistral, PyTorch, Hugging Face, LoRA, FAISS, OCR, Gradio, OpenCV
+
+Multimodal RAG Chatbot for Document Intelligence
+
+November 2025 - December 2025
+
++ Developed a Multimodal RAG-based chatbot to answer questions grounded in PDFs containing text, tables, and images.
+
+- Implemented pipeline for document parsing, chunking, embeddings, vector search, and context-only generation to minimize
+hallucinations.
+
+- Designed the system to support dynamic PDF uploads with persistent vector storage(ChromaDB).
+
++ Built a Gradio-based chat UI with indexing status and confidence scoring.
+
+- Tech: Mistral-7B, ChromaDB, Sentence Transformers, Unstructured, Python.
+
+Document Query and Generation using Generative Al
+
+Tech Mahindra - July 2024 - Novernber 2024
+
+- Devised a GenAl-based system to automate document generation and enable users to query historical documents for compliance and
+reporting.
+
+- Fine-tuned MS-Phi3(LLM) for domain-specific language understanding, improving query accuracy and response quality.
+
+» Delivered a Streamlit-based interactive interface that reduced average document retrieval time from minutes to seconds.
+
++ Tech: Python, Hugging Face, PyTorch, LoRA, Unsloth, Streamlit, MS-Phi3
+
+Youtube ETL Pipeline with Apache Airflow
+
+January 2025 - February 2025
+
+- This project demonstrates an end-to-end ETL (Extract, Transform, Load) data pipeline that fetches YouTube video comments using the
+YouTubeData API and stores them into an AWS $3 bucket.
+
+- The pipeline is orchestrated using Apache Airflow.
+
+- Tech - Python, Apache Airflow, YouTube Data API v3, AWS S3 (via s3fs), Pandas
+
+CERTIFICATIONS AND BADGES
+
+Databricks Accredited Generative AI Fundamentals
+Databricks Academy + 2025
+
+Al White Belt
+Tech Mahindra + 2025
+
+Google Cloud Introduction to Generative AI
+Google Cloud + 2025
+
+Google Cloud Computing Foundations : Cloud Computing Fundamentals
+Google Cloud + 2025

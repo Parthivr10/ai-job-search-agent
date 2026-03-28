@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain-community
+langchain-groq
+mcp
+beautifulsoup4
+requests
+sentence-transformers
+python-dotenv
+tqdm
+playwright
+pdfplumber
+streamlit
